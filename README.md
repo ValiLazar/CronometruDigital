@@ -45,8 +45,4 @@ Before soldering, the circuit was validated on a breadboard.
 The final version was transferred to a perforated board for stability.
 ![Soldering Back](pcb_soldering_bottom.jpg)
 
-## 🚀 Future Improvements
-* Adding minutes counting (extending the logic to 59:59).
-* Implementing a millisecond counter for higher precision.
-* Designing a custom printed PCB instead of a perforated board.
 
