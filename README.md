@@ -8,8 +8,6 @@
 ## 📝 Project Overview
 This project represents a hardware implementation of a **Digital Stopwatch** capable of counting seconds (0-59). It is built entirely using discrete logic gates, counters, and timers, without any microcontrollers (like Arduino or ESP32). The goal was to demonstrate a fundamental understanding of digital electronics, timing circuits, and PCB design.
 
-**Full Documentation:** [Download Cronometru digital.docx](Cronometru%20digital.docx)
-
 ## ⚙️ How It Works
 The circuit operates on a 5V logic level and consists of three main stages:
 
