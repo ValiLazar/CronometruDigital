@@ -50,5 +50,3 @@ The final version was transferred to a perforated board for stability.
 * Implementing a millisecond counter for higher precision.
 * Designing a custom printed PCB instead of a perforated board.
 
----
-*Project created for the "Digital Electronics" course.*
