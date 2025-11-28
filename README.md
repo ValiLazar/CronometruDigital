@@ -1,8 +1,5 @@
 # Digital Stopwatch using TTL Logic & 74LS Series
 
-**Author:** Lazar Constantin-Valentin  
-**University:** Transilvania University of Brașov, Faculty of Electrical Engineering and Computer Science
-
 ![Project Banner](pcb_top_view.jpg)
 
 ## 📝 Project Overview
